@@ -1,0 +1,7 @@
+[package]
+name = "Keylogger"
+version = "0.1.0"
+authors = ["Lars Gohr <larsgohr@gmail.com>"]
+
+[dependencies]
+termios = "0.2.2"
